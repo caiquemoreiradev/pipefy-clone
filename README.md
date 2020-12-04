@@ -11,5 +11,5 @@
 
 ### Página principal do projeto finalizada.
 
-[![Página Principa](https://media-exp1.licdn.com/dms/image/C4D05AQHWcYMvwsPAOQ/videocover-low/0/1600859447942?e=1607187600&v=beta&t=m5ABU1qpovWz5D2_l2btwyX4-kKz8JoBun_xdSahm5o)]
+![Página Principa](https://github.com/caiquemoreiradev/pipefy-clone/blob/master/src/assets/main-page.png?raw=true)
 
