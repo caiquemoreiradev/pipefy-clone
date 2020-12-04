@@ -13,3 +13,26 @@
 
 ![Página Principa](https://github.com/caiquemoreiradev/pipefy-clone/blob/master/src/assets/main-page.png?raw=true)
 
+
+#### Header do projeto (Informações estáticas no momento)
+
+![Página Principa](https://github.com/caiquemoreiradev/pipefy-clone/blob/master/src/assets/header.png?raw=true)
+
+#### Seção de cards projeto (Informações estáticas no momento)
+
+![Página Principa](https://github.com/caiquemoreiradev/pipefy-clone/blob/master/src/assets/header.png?raw=true)
+
+
+## Para iniciar o projeto:
+
+### No diretório da aplicação
+
+#### Adicione os pacotes necessários com "npm install"
+#### Inicie o projeto com "yarn start"
+
+#### Runs the app in the development mode.
+##### Open http://localhost:3000 to view it in the browser.
+
+#### The page will reload if you make edits.
+#### You will also see any lint errors in the console.
+
